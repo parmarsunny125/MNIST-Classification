@@ -55,7 +55,7 @@ To run this project, you can either use Google Colab or Jupyter Notebook.
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/MNIST-Classification.git
+    git clone https://github.com/parmarsunny125/MNIST-Classification.git
     cd MNIST-Classification
     ```
 
